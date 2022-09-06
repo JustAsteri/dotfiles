@@ -11,7 +11,6 @@
 
 sudo pacman-mirrors -g && 
 sudo pacman -Syyu && 
-sudo pacman -S xargs && 
 xargs -a packages.txt sudo pacman -S && 
 xargs -a yay_packages.txt yay -S && 
 sh manual_installation.sh && 
