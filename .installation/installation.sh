@@ -16,4 +16,7 @@ xargs -a yay_packages.txt yay -S &&
 sh manual_installation.sh && 
 sh ~/dotfiles/.installation/make-symlinks.sh && 
 sudo pacman -Rsn $(pacman -Qdtq) && 
-fish
+fish &&
+# FZF
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
