@@ -1,0 +1,6 @@
+psutil
+requests
+pysubs2
+cchardet
+ffsubsync
+rubysubs>=0.1.4
