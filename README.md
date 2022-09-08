@@ -38,6 +38,9 @@ JetBrains:
   1. Open `neovim` in a terminal
   2. Write `:PlugInstall`
   3. Write `:source %`
+6. Install snap and flatpak packages
+    - `sudo flatpak install logseq`
+    - Download snap package for obsidian
 
 ## Software
 - Window Manager: [qtile](https://wiki.archlinux.org/title/Qtile)
