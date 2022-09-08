@@ -4,10 +4,6 @@ cd ~/Downloads
 mkdir repos
 cd repos
 
-# FZF
-git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-~/.fzf/install
-
 # Oh-my-fish
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install
 

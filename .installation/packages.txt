@@ -15,6 +15,7 @@ neofetch
 qbittorrent 
 tree 
 make 
-qtile
+qtile 
 unzip 
 qutebrowser 
+git 
