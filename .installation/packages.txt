@@ -19,3 +19,4 @@ qtile
 unzip 
 qutebrowser 
 git 
+brightnessctl
