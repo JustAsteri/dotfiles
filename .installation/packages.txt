@@ -19,4 +19,5 @@ qtile
 unzip 
 qutebrowser 
 git 
-brightnessctl
+brightnessctl 
+patch 
